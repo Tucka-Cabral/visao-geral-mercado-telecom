@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiYTg5OTBhNmMtYWRlNi00Y2JmLTkwZTAtNTViMjc2ZGYzZmMwIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9">
+    <img src="/Logo_AGTelecomFicticia_SVG.svg" alt="Logo Absolute Garden Telecom" width="350" height="350">
+  </a>
+</p>
+
 
 # 📡 Dashboard Power BI – Panorama do Mercado de Telefonia Móvel
 
@@ -43,21 +49,36 @@ Este projeto foi desenvolvido com base em dados públicos disponibilizados pela 
 
 ## 📎 Fonte dos Dados
 
-- 📊 ANATEL – Dados abertos sobre acessos móveis  
-- 📈 Projeções próprias baseadas em estimativas populacionais e variação histórica de mercado
+- 📊 [ANATEL – Dados abertos sobre acessos móveis – download em Jan/24](https://www.anatel.gov.br/dadosabertos/paineis_de_dados/acessos/acessos_telefonia_movel.zip)  
+- 📈 [IBGE – Projeções próprias baseadas em estimativas populacionais e variação histórica de mercado – download em Jan/24](https://sidra.ibge.gov.br/tabela/7358)
 
 ---
 
 ## 📷 Visualizações
 
-> *(Adicione aqui prints do dashboard ou link para visualização pública do Power BI Service, se desejar)*
+<p>
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiYTg5OTBhNmMtYWRlNi00Y2JmLTkwZTAtNTViMjc2ZGYzZmMwIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9">
+    <img src="/ImagensProjeto/Pagina1_Visao_Geral_Telefonia_Movel.png" alt="Página 1 do relatório" width="350" height="350">
+    <img src="/ImagensProjeto/Pagina2_Projecoes.png" alt="Página 2 do relatório" width="350" height="350">
+  </a>
+  <img src="/ImagensProjeto/Estrutura_Modelo.png" alt="Print da estrutura do modelo no Power BI" width="350" height="350">
+  <img src="/ImagensProjeto/Base_Acessos_Telefonia_Movel_Fonte_BigQuery.png" alt="Print demonstrando utilização Big Query" width="350" height="350">
+  <img src="/ImagensProjeto/Base_Acessos_Telefonia_Movel.png" alt="Base Acessos Telefonia Móvel" width="350" height="350">
+  <img src="/ImagensProjeto/Fonte_Localidades_IBGE.png" alt="Dados com fonte no IBGE" width="350" height="350">
+  <img src="/ImagensProjeto/Fonte_Feriados_Ambima.png" alt="Dados com fonte no site da Ambima" width="350" height="350">
+</p>
 
 ---
 
 ## 👩‍💻 Autora
 
-Thais Duarte Cabral  
-[🔗 LinkedIn](https://www.linkedin.com/in/thais-cabral1)  
-📫 thais.cabral@email.com
+Thais Cabral  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/thais-cabral1)
+
+
+📫 thais_cabral@hotmail.com
+
+:computer: www.absolutegarden.com.br
 
 ---
