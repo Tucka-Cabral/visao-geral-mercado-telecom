@@ -54,7 +54,7 @@ Este projeto foi desenvolvido com base em dados públicos disponibilizados pela 
 
 ---
 
-## 📷 Visualizações
+## 📷 Imagens do Projeto
 
 <p>
   <a href="https://app.powerbi.com/view?r=eyJrIjoiYTg5OTBhNmMtYWRlNi00Y2JmLTkwZTAtNTViMjc2ZGYzZmMwIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9">
@@ -69,7 +69,10 @@ Este projeto foi desenvolvido com base em dados públicos disponibilizados pela 
 </p>
 
 ---
+## 📌 Link do projeto
+Acesse: [Dashboard Power BI – Panorama do Mercado de Telefonia Móvel](https://app.powerbi.com/view?r=eyJrIjoiYTg5OTBhNmMtYWRlNi00Y2JmLTkwZTAtNTViMjc2ZGYzZmMwIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
+---
 ## 👩‍💻 Autora
 
 Thais Cabral  
